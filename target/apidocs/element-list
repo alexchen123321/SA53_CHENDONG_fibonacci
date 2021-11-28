@@ -1,0 +1,5 @@
+com.murdock.examples.dropwizard
+com.murdock.examples.dropwizard.api
+com.murdock.examples.dropwizard.db
+com.murdock.examples.dropwizard.health
+com.murdock.examples.dropwizard.resources

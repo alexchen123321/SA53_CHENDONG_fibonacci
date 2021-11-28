@@ -1,0 +1,38 @@
+INFO  [2021-11-27 16:40:10,225] org.eclipse.jetty.util.log: Logging initialized @1870ms to org.eclipse.jetty.util.log.Slf4jLog
+INFO  [2021-11-27 16:40:10,287] io.dropwizard.server.DefaultServerFactory: Registering jersey handler with root path prefix: /
+INFO  [2021-11-27 16:40:10,290] io.dropwizard.server.DefaultServerFactory: Registering admin handler with root path prefix: /
+INFO  [2021-11-27 16:40:10,295] io.dropwizard.server.DefaultServerFactory: Registering jersey handler with root path prefix: /
+INFO  [2021-11-27 16:40:10,296] io.dropwizard.server.DefaultServerFactory: Registering admin handler with root path prefix: /
+INFO  [2021-11-27 16:40:10,304] io.dropwizard.server.ServerFactory: Starting HolaDropwizard
+================================================================================
+
+                              HolaDropwizard
+
+================================================================================
+
+
+INFO  [2021-11-27 16:40:10,379] org.eclipse.jetty.setuid.SetUIDListener: Opened application@66f28a1f{HTTP/1.1,[http/1.1]}{0.0.0.0:8000}
+INFO  [2021-11-27 16:40:10,380] org.eclipse.jetty.setuid.SetUIDListener: Opened admin@60a19573{HTTP/1.1,[http/1.1]}{0.0.0.0:8001}
+INFO  [2021-11-27 16:40:10,386] org.eclipse.jetty.server.Server: jetty-9.4.z-SNAPSHOT
+INFO  [2021-11-27 16:40:10,845] org.eclipse.jetty.server.AbstractConnector: Started application@66f28a1f{HTTP/1.1,[http/1.1]}{0.0.0.0:8000}
+INFO  [2021-11-27 16:40:10,850] org.eclipse.jetty.server.AbstractConnector: Started admin@60a19573{HTTP/1.1,[http/1.1]}{0.0.0.0:8001}
+javax/json/JsonObject
+INFO  [2021-11-27 16:40:31,759] org.eclipse.jetty.util.log: Logging initialized @1804ms to org.eclipse.jetty.util.log.Slf4jLog
+INFO  [2021-11-27 16:40:31,817] io.dropwizard.server.DefaultServerFactory: Registering jersey handler with root path prefix: /
+INFO  [2021-11-27 16:40:31,819] io.dropwizard.server.DefaultServerFactory: Registering admin handler with root path prefix: /
+INFO  [2021-11-27 16:40:31,823] io.dropwizard.server.DefaultServerFactory: Registering jersey handler with root path prefix: /
+INFO  [2021-11-27 16:40:31,823] io.dropwizard.server.DefaultServerFactory: Registering admin handler with root path prefix: /
+INFO  [2021-11-27 16:40:31,834] io.dropwizard.server.ServerFactory: Starting HolaDropwizard
+================================================================================
+
+                              HolaDropwizard
+
+================================================================================
+
+
+INFO  [2021-11-27 16:40:31,893] org.eclipse.jetty.setuid.SetUIDListener: Opened application@66f28a1f{HTTP/1.1,[http/1.1]}{0.0.0.0:8000}
+INFO  [2021-11-27 16:40:31,893] org.eclipse.jetty.setuid.SetUIDListener: Opened admin@60a19573{HTTP/1.1,[http/1.1]}{0.0.0.0:8001}
+INFO  [2021-11-27 16:40:31,894] org.eclipse.jetty.server.Server: jetty-9.4.z-SNAPSHOT
+INFO  [2021-11-27 16:40:32,290] org.eclipse.jetty.server.AbstractConnector: Started application@66f28a1f{HTTP/1.1,[http/1.1]}{0.0.0.0:8000}
+INFO  [2021-11-27 16:40:32,293] org.eclipse.jetty.server.AbstractConnector: Started admin@60a19573{HTTP/1.1,[http/1.1]}{0.0.0.0:8001}
+javax/json/JsonObject
