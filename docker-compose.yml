@@ -1,0 +1,17 @@
+version: '3'
+services:
+  web:
+    image:  oracle17
+    container_name: oracle17
+    ports:
+      - 8000:8000
+    volumes:
+      - ./target/:/home/target 
+      - ./conf:/home/conf
+    restart: always
+    command: bash -c "java -jar   /home/target/hola-dropwizard-1.0.jar server /home/conf/app.yml" 
+    networks:
+      - hola
+networks:
+  hola:
+    external: false
