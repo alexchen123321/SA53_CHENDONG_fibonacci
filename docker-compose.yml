@@ -6,10 +6,20 @@ services:
     ports:
       - 8000:8000
     volumes:
-      - ./target/:/home/target 
+      - ./target/:/home/target
       - ./conf:/home/conf
     restart: always
-    command: bash -c "java -jar   /home/target/hola-dropwizard-1.0.jar server /home/conf/app.yml" 
+    command: bash -c "java -jar   /home/target/hola-dropwizard-1.0.jar server /home/conf/app.yml"
+    networks:
+      - hola
+  node:
+    image:  node16fi
+    container_name: node16fi
+    ports:
+      - 3000:3000
+    volumes:
+      - ./:/opt
+    restart: always
     networks:
       - hola
 networks:
