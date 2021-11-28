@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.murdock.examples.dropwizard"},{"l":"com.murdock.examples.dropwizard.api"},{"l":"com.murdock.examples.dropwizard.db"},{"l":"com.murdock.examples.dropwizard.health"},{"l":"com.murdock.examples.dropwizard.resources"}];updateSearchResults();

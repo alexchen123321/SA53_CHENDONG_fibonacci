@@ -31,7 +31,7 @@ public class HolaDropwizardApplication extends Application<HolaDropwizardConfigu
         // TODO: implement application
         environment.jersey().register(new HolaRestResourceV1());
         environment.jersey().register(new fibonacci());
-        environment.jersey().register(new PersonService());
+//        environment.jersey().register(new PersonService());
 //        environment.jersey().register(new HolaRestResourceV2(configuration.getSayingFactory().getSaying()));
     }
 

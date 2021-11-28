@@ -24,7 +24,7 @@ import java.util.*;
 @Path("/fibonacci")
 public class fibonacci {
 
-    @GET
+    @POST
     @Timed
     @Path("/")
     @Produces(MediaType.APPLICATION_JSON)

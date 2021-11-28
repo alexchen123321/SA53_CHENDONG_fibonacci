@@ -12,6 +12,7 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/com/murdock/examples/dropwizard/db/PersonDB.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/murdock/examples/dropwizard/health/RestStubCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/murdock/examples/dropwizard/health/RestStubCheck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/murdock/examples/dropwizard/resources/PersonService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/murdock/examples/dropwizard/resources/fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/murdock/examples/dropwizard/resources/fibonacci.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +82,7 @@
       <updated>1637936545605</updated>
       <workItem from="1637936551045" duration="29298000" />
       <workItem from="1638024873620" duration="561000" />
-      <workItem from="1638026719114" duration="20980000" />
+      <workItem from="1638026719114" duration="23195000" />
     </task>
     <servers />
   </component>
