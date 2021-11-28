@@ -1,6 +1,4 @@
 package com.murdock.examples.dropwizard.health;
-import com.murdock.examples.dropwizard.db.PersonDB;
-import com.codahale.metrics.health.HealthCheck;
 
 
 public class RestStubCheck {

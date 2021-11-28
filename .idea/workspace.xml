@@ -7,6 +7,11 @@
     <list default="true" id="138bcfb2-4275-4fdc-ada2-8c602de7d3ea" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/murdock/examples/dropwizard/api/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/murdock/examples/dropwizard/api/Test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/murdock/examples/dropwizard/db/PersonDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/murdock/examples/dropwizard/health/RestStubCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/murdock/examples/dropwizard/health/RestStubCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/murdock/examples/dropwizard/resources/PersonService.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,12 +81,23 @@
       <updated>1637936545605</updated>
       <workItem from="1637936551045" duration="29298000" />
       <workItem from="1638024873620" duration="561000" />
-      <workItem from="1638026719114" duration="20681000" />
+      <workItem from="1638026719114" duration="20980000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
