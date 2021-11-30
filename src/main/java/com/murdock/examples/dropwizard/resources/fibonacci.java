@@ -66,7 +66,7 @@ public class fibonacci {
         calculateFibonacci Fibonacci = new calculateFibonacci(ele);
         System.out.println(Arrays.toString(Fibonacci.FibonacciArr()));
         // sort Fibonacci
-        int[] afterSortedFib = Fibonacci.SortedFibArr().clone();
+        long[] afterSortedFib = Fibonacci.SortedFibArr().clone();
 
         System.out.println(Arrays.toString(afterSortedFib));
         // add nested arrays to JSON objects

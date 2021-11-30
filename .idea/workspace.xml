@@ -6,145 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="138bcfb2-4275-4fdc-ada2-8c602de7d3ea" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/murdock/examples/dropwizard/HolaDropwizardApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/murdock/examples/dropwizard/HolaDropwizardApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/murdock/examples/dropwizard/api/calculateFibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/murdock/examples/dropwizard/api/calculateFibonacci.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/murdock/examples/dropwizard/resources/fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/murdock/examples/dropwizard/resources/fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/allclasses-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/allclasses-index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/allpackages-index 2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/allpackages-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/allpackages-index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/HolaDropwizardApplication 3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/HolaDropwizardApplication.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/HolaDropwizardApplication.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/HolaDropwizardConfiguration 3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/HolaDropwizardConfiguration.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/HolaDropwizardConfiguration.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/api/Person 3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/api/Person.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/api/Test1 3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/api/Test1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/api/calculateFibonacci 3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/api/calculateFibonacci.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/api/calculateFibonacci.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/api/class-use/Person 2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/api/class-use/Person.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/api/class-use/Test1 2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/api/class-use/Test1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/api/class-use/calculateFibonacci 2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/api/class-use/calculateFibonacci.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/api/class-use/calculateFibonacci.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/api/package-summary 2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/api/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/api/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/api/package-tree 3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/api/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/api/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/api/package-use 3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/api/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/api/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/class-use/HolaDropwizardApplication 2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/class-use/HolaDropwizardApplication.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/class-use/HolaDropwizardApplication.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/class-use/HolaDropwizardConfiguration 2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/class-use/HolaDropwizardConfiguration.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/class-use/HolaDropwizardConfiguration.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/db/PersonDB 3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/db/PersonDB.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/db/class-use/PersonDB 2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/db/class-use/PersonDB.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/db/package-summary 3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/db/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/db/package-tree 3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/db/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/db/package-use 3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/db/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/health/RestStubCheck 3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/health/RestStubCheck.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/health/RestStubCheck.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/health/class-use/RestStubCheck 2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/health/class-use/RestStubCheck.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/health/class-use/RestStubCheck.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/health/package-summary 3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/health/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/health/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/health/package-tree 2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/health/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/health/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/health/package-use 3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/health/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/health/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/package-summary 3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/package-tree 3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/package-use 3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/resources/HolaRestResourceV1 3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/resources/HolaRestResourceV1.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/resources/HolaRestResourceV1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/resources/PersonService 3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/resources/PersonService.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/resources/class-use/HolaRestResourceV1 2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/resources/class-use/HolaRestResourceV1.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/resources/class-use/HolaRestResourceV1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/resources/class-use/PersonService 2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/resources/class-use/PersonService.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/resources/class-use/fibonacci 2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/resources/class-use/fibonacci.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/resources/class-use/fibonacci.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/resources/fibonacci 3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/resources/fibonacci.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/resources/fibonacci.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/resources/package-summary 3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/resources/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/resources/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/resources/package-tree 3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/resources/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/resources/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/resources/package-use 3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/resources/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/com/murdock/examples/dropwizard/resources/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/element-list" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/element-list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/help-doc 2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/help-doc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/index-all 2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/index-all.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/jquery-ui.overrides 2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/legal/ADDITIONAL_LICENSE_INFO 2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/legal/ASSEMBLY_EXCEPTION 2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/legal/LICENSE 2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/legal/jquery 2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/legal/jqueryUI 2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/member-search-index 2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/member-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/member-search-index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/module-search-index 2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/overview-summary 2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/overview-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/overview-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/package-search-index 2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/package-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/package-search-index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/resources/glass 2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/resources/x 2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/script 3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/script-dir/jquery-3.5.1.min 2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/script-dir/jquery-ui.min 2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/script-dir/jquery-ui.min 2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/script-dir/jquery-ui.structure.min 2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/search 3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/stylesheet 2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/tag-search-index 2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/type-search-index 2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/type-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/type-search-index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/banner 3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/murdock/examples/dropwizard/HolaDropwizardApplication 3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/murdock/examples/dropwizard/HolaDropwizardApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/murdock/examples/dropwizard/HolaDropwizardApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/murdock/examples/dropwizard/HolaDropwizardConfiguration 3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/murdock/examples/dropwizard/api/Person 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/murdock/examples/dropwizard/api/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/murdock/examples/dropwizard/api/Test1 3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/murdock/examples/dropwizard/api/Test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/murdock/examples/dropwizard/api/calculateFibonacci 3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/murdock/examples/dropwizard/db/PersonDB 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/murdock/examples/dropwizard/db/PersonDB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/murdock/examples/dropwizard/health/RestStubCheck 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/murdock/examples/dropwizard/health/RestStubCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/murdock/examples/dropwizard/health/RestStubCheck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/murdock/examples/dropwizard/resources/HolaRestResourceV1 3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/murdock/examples/dropwizard/resources/PersonService 3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/murdock/examples/dropwizard/resources/PersonService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/murdock/examples/dropwizard/resources/fibonacci 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/murdock/examples/dropwizard/resources/fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/murdock/examples/dropwizard/resources/fibonacci.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/hola-dropwizard-1.0 2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/hola-dropwizard-1.0-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/hola-dropwizard-1.0-javadoc.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/hola-dropwizard-1.0-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/hola-dropwizard-1.0-sources.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/hola-dropwizard-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/hola-dropwizard-1.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc-bundle-options/javadoc-options-javadoc-resources 3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc-bundle-options/package-list 3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom 3.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles 3.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles 3.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles 2.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/original-hola-dropwizard-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/original-hola-dropwizard-1.0.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -214,7 +77,10 @@
       <updated>1637936545605</updated>
       <workItem from="1637936551045" duration="29298000" />
       <workItem from="1638024873620" duration="561000" />
-      <workItem from="1638026719114" duration="24792000" />
+      <workItem from="1638026719114" duration="25006000" />
+      <workItem from="1638147661616" duration="678000" />
+      <workItem from="1638255563936" duration="730000" />
+      <workItem from="1638258499145" duration="161000" />
     </task>
     <servers />
   </component>
@@ -231,6 +97,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

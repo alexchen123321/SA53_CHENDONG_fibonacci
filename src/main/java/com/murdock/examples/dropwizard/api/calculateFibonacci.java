@@ -7,7 +7,7 @@ import java.util.Collections;
 
 public class calculateFibonacci {
     private int n;
-    private int[] cacheArr;
+    private long[] cacheArr;
     public int getN() {
         return n;
     }
@@ -24,9 +24,9 @@ public class calculateFibonacci {
 
     }
 
-    public int[] FibonacciArr(){
+    public long[] FibonacciArr(){
 //        System.out.println("fibonacciarr:" + n);
-          int[] fib = new int[n];
+        long[] fib = new long[n];
 //        System.out.println("fibonacciarr len:" + fib.length);
          if(n == 0){
              fib[0] =0;
@@ -45,8 +45,8 @@ public class calculateFibonacci {
         return fib;
     }
 
-    public int[] SortedFibArr(){
-        int[] sortedArr = new int[cacheArr.length];
+    public long[] SortedFibArr(){
+        long[] sortedArr = new long[cacheArr.length];
         ArrayUtils.reverse(cacheArr);
         int count = 0;
         for(int i= 0; i < cacheArr.length;i++){
